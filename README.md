@@ -1,6 +1,8 @@
 # ACONITE
 Analysis of Carbon and Nitrogen Interactions in Terrestrial Ecosystems
 
+Thomas, R.Q., and M. Williams. 2014. A model using marginal efficiency of investment to analyze carbon and nitrogen interactions in terrestrial ecosystems (ACONITE Version 1). Geoscientific Model Development 7: 2015–2037. https://doi.org/10.5194/gmd-7-2015-2014
+
 ## How to ACONITE
 
 1) Compile the code. An example of a makefile is provided ('makefile'). example command: 'make -f makefile
