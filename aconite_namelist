@@ -1,0 +1,15 @@
+&ACONITE_IN
+CLIM_FILE='climate_Manaus_1999.csv'
+PARAM_FILE='parameter_tropical.txt'
+DAY_OUT=''
+ANNUAL_OUT='annual out.txt'
+RESTART_IN='restart_tropical.txt'
+RESTART_OUT='restart_test.txt'
+SITE_IN='site_details_Manaus.txt'
+SIM_LENGTH=1000
+CLIM_LENGTH=365
+PRINT_YEAR_START=1
+PRINT_YEAR_END=2000
+ANNUAL_STATE_DOY=200
+COLD_START=1
+/
